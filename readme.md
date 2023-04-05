@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+# INDIAN-STARTUP-ECOSYSTEM-FUNDING
 PROJECT DESCRIPTION
 
 In this project, We analyze funding received by start-ups in India from 2018 to 2021. Data for each year of funding is located in a separate csv file in the dataset provided. In these files are the start-ups' details, the funding amounts received, and the investors' information.

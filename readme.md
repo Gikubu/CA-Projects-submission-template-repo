@@ -8,9 +8,7 @@ As Data Analysts for this project, we ask business inquiries, investigate the da
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 1  | Indian Start-up Ecosystem Funding - Data Analysis Project |  [Medium
-LinkedIn](/) | [Jupyter Notebook
-Power BI](/) |
+| LP 1  | Indian Start-up Ecosystem Funding - Data Analysis Project |  Medium LinkedIn | Jupyter Notebook Power BI |
 
 
 ## Setup

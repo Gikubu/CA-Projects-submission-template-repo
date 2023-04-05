@@ -12,9 +12,6 @@ As Data Analysts for this project, we ask business inquiries, investigate the da
 LinkedIn](/) | [Jupyter Notebook
 Power BI](/) |
 
-## Project Description
-
-
 
 ## Setup
 
